@@ -38,3 +38,7 @@ jupyter notebook machine_learning_notebook.ipynb
 ```
 depending on your exact system (if one gives you an error, try the other one!)
 
+
+Once you have finished working through the notebook you can save your output and close the jupyter notebook.
+
+
